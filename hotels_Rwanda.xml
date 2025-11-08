@@ -1,0 +1,258 @@
+<hotelList>
+      <!-- Five stars hotels -->
+  <hotel>
+    <name>Kigali Marriott Hotel</name>
+    <starRating>5</starRating>
+    <address>KN 3 Avenue, Nyarugenge District, Kigali, Rwanda</address>  
+    <phone>+250 222-111 111</phone>  
+    <email>info.kigali@marriott.com</email>  
+    <website>https://www.marriott.com/en-us/hotels/kglmc-kigali-marriott-hotel/overview/</website>
+    <rooms>
+      <room>
+        <type>Standard Room</type>
+        <priceUSD>~285</priceUSD> 
+      </room>
+      <room>
+        <type>Deluxe Room</type>
+        <priceUSD>~350</priceUSD>
+      </room>
+    </rooms>
+    <amenities>
+      <amenity>Free Wi-Fi</amenity>
+      <amenity>Outdoor swimming pool</amenity>
+      <amenity>Spa and wellness center</amenity>
+      <amenity>Fitness center</amenity>
+      <amenity>Restaurant and bar</amenity>
+      <amenity>Conference facilities</amenity>
+    </amenities>
+  </hotel>
+  <hotel>
+    <name>Kigali Serena Hotel</name>
+    <starRating>5</starRating>
+    <address>Boulevard de la Révolution, Kigali, Rwanda</address>  
+    <phone>+250 597 100 / +250 788 184 500</phone>  
+    <email>kigalireservations@serena.co.rw</email> 
+    <website>https://www.serenahotels.com/kigali</website>
+     <rooms>
+      <room>
+        <type>Standard Room (Bed and Breakfast)</type>
+        <priceUSD>~219 per person</priceUSD> 
+      </room>
+      <room>
+        <type>Junior Suite</type>
+        <priceUSD>~266 per person</priceUSD> 
+      </room>
+    </rooms>
+    <amenities>
+      <amenity>Outdoor pool</amenity>
+      <amenity>Fine dining restaurant</amenity>
+      <amenity>Health club and spa</amenity>
+      <amenity>24-hour room service</amenity>
+      <amenity>Conference halls</amenity>
+      <amenity>Airport shuttle</amenity>
+    </amenities>
+  </hotel>
+  <hotel>
+    <name>Radisson Blu Hotel and Convention Centre, Kigali</name>
+    <starRating>5</starRating>
+    <address>KG 2 Roundabout, Kimihurura, Kigali, Rwanda</address>  
+    <phone>+250 252 252 252 / 252 253 253</phone>  
+    <email>info.kigali@radissonblu.com</email>  
+    <website>https://www.radissonhotels.com/en-us/hotels/radisson-blu-convention-kigali</website>
+      <rooms>
+      <room>
+        <type>Superior Room</type>
+        <priceUSD>~610 per night</priceUSD>
+      </room>
+      <room>
+        <type>Junior Suite</type>
+        <priceUSD>~1,522 per night</priceUSD> 
+      </room>
+    </rooms>
+    <amenities>
+      <amenity>Convention center</amenity>
+      <amenity>Multiple restaurants and bars</amenity>
+      <amenity>Outdoor pool</amenity>
+      <amenity>Gym and spa</amenity>
+      <amenity>High-speed internet</amenity>
+      <amenity>Airport transfer</amenity>
+    </amenities>
+  </hotel>
+
+  <!-- Four stars hotels -->
+
+  <hotel>
+    <name>Hôtel des Mille Collines</name>
+    <starRating>4</starRating>
+    <address>2 KN 6th Avenue, Kigali, Rwanda</address>
+    <phone>+250 788 192 530</phone>
+    <email>reservations@millecollines.rw</email>
+    <website>http://www.millecollines.rw</website>
+     <rooms>
+      <room>
+        <type>Standard Room</type>
+        <priceUSD>~120</priceUSD>
+      </room>
+      <room>
+        <type>Executive Room</type>
+        <priceUSD>~180</priceUSD>
+      </room>
+    </rooms>
+     <amenities>
+      <amenity>Swimming pool</amenity>
+      <amenity>Restaurant and bar</amenity>
+      <amenity>Free Wi-Fi</amenity>
+      <amenity>Conference rooms</amenity>
+      <amenity>City view terrace</amenity>
+    </amenities>
+  </hotel>
+  <hotel>
+    <name>Lemigo Hotel</name>
+    <starRating>4</starRating>
+    <address>KG 624 Street, Kigali, Rwanda</address>
+    <phone>+250 784 183 299</phone>
+    <email>info@lemigohotel.com</email>
+    <website>http://www.lemigohotel.com</website>
+    <rooms>
+      <room>
+        <type>Deluxe Room</type>
+        <priceUSD>~110</priceUSD>
+      </room>
+      <room>
+        <type>Suite</type>
+        <priceUSD>~160</priceUSD>
+      </room>
+    </rooms>
+        <amenities>
+      <amenity>Heated pool</amenity>
+      <amenity>Spa and sauna</amenity>
+      <amenity>Conference facilities</amenity>
+      <amenity>Airport shuttle</amenity>
+      <amenity>Free Wi-Fi</amenity>
+    </amenities>
+  </hotel>
+  <hotel>
+    <name>Ubumwe Grande Hotel</name>
+    <starRating>4</starRating>
+    <address>KN 67 Street, Kigali, Rwanda</address>
+    <phone>+250 788 310 008</phone>
+    <email>sales@ubumwegrandehotel.com</email>
+    <website>https://www.ubumwegrandehotel.com</website>
+        <rooms>
+      <room>
+        <type>Standard Room</type>
+        <priceUSD>~130</priceUSD>
+      </room>
+      <room>
+        <type>Junior Suite</type>
+        <priceUSD>~200</priceUSD>
+      </room>
+    </rooms>
+    <amenities>
+      <amenity>Rooftop pool and bar</amenity>
+      <amenity>Restaurant</amenity>
+      <amenity>Business center</amenity>
+      <amenity>Airport transfer</amenity>
+      <amenity>Free Wi-Fi</amenity>
+    </amenities>
+  </hotel>
+  <!-- Three stars hotels -->
+ <hotel>
+    <name>ONOMO Hotel Kigali</name>
+    <starRating>3</starRating>
+    <address>KN 1 Avenue, Rugenge Sector, Nyarugenge District, Kigali, Rwanda</address>
+    <phone>+250 783 701 403</phone>
+    <email>sales.kigali@onomohotel.com</email>
+    <website>https://www.onomohotel.com/hotels/kigali</website>
+    <rooms>
+      <room>
+        <type>Standard Room</type>
+        <priceUSD>~90</priceUSD>
+      </room>
+      <room>
+        <type>Superior Room</type>
+        <priceUSD>~120</priceUSD>
+      </room>
+    </rooms>
+    <amenities>
+      <amenity>Restaurant and bar</amenity>
+      <amenity>Outdoor pool</amenity>
+      <amenity>Free Wi-Fi</amenity>
+      <amenity>Conference room</amenity>
+    </amenities>
+  </hotel>
+  <hotel>
+    <name>Hotel Chez Lando</name>
+    <starRating>3</starRating>
+    <address>KG 201 Street, Airport Road, Remera, Kigali, Rwanda</address>
+    <phone>(not publicly listed)</phone>
+    <email>(not publicly listed)</email>
+    <website>https://www.chezlando.com/</website>
+        <rooms>
+      <room>
+        <type>Standard Room</type>
+        <priceUSD>~75</priceUSD>
+      </room>
+      <room>
+        <type>Deluxe Room</type>
+        <priceUSD>~100</priceUSD>
+      </room>
+    </rooms>
+     <amenities>
+      <amenity>Restaurant and garden bar</amenity>
+      <amenity>Airport shuttle</amenity>
+      <amenity>Meeting rooms</amenity>
+      <amenity>Free breakfast</amenity>
+      <amenity>Wi-Fi</amenity>
+    </amenities>
+  </hotel>
+   <!-- 2 stars hotels -->
+  <hotel>
+    <name>Sainte Famille Hotel</name>
+    <starRating>2</starRating>
+    <address>1 KN 1 Street, Nyarugenge District, Kigali, Rwanda</address>
+    <phone>+250 784 180 076</phone>
+    <email>reservation@saintefamillehotel.com</email>
+    <website>https://www.saintefamillehotel.com</website>
+    <rooms>
+      <room>
+        <type>Standard Room</type>
+        <priceUSD>~40</priceUSD>
+      </room>
+      <room>
+        <type>Budget Room</type>
+        <priceUSD>~30</priceUSD>
+      </room>
+    </rooms>
+        <amenities>
+      <amenity>Restaurant</amenity>
+      <amenity>Free Wi-Fi</amenity>
+      <amenity>Conference room</amenity>
+      <amenity>Parking</amenity>
+    </amenities>
+  </hotel>
+  <hotel>
+    <name>Galaxy Hotel Kigali</name>
+    <starRating>2</starRating>
+    <address>KN 20 Avenue, Kiyovu, Kigali, Rwanda</address>
+    <phone>+250 788 382 553</phone>
+    <email>reservations@galaxyhotel.rw</email>
+    <website>https://www.galaxyhotel.rw</website>
+    <rooms>
+      <room>
+        <type>Standard Room</type>
+        <priceUSD>~45</priceUSD>
+      </room>
+      <room>
+        <type>Economy Room</type>
+        <priceUSD>~35</priceUSD>
+      </room>
+    </rooms>
+      <amenities>
+      <amenity>Restaurant and bar</amenity>
+      <amenity>Meeting space</amenity>
+      <amenity>Wi-Fi</amenity>
+      <amenity>Free parking</amenity>
+    </amenities>
+  </hotel>
+</hotelList>
